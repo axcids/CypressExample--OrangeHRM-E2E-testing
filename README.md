@@ -49,12 +49,11 @@ cypress.config.js         # Cypress configuration
 package.json              # Project metadata and dependencies
 README.md                 # Project documentation
 ```
-## 👨‍💻 Author
+## 👨‍💻 Final Note
 
-**Abdulmajeed**  
-[GitHub Profile](https://github.com/YOUR-USERNAME)
+This repository is part of my ongoing effort to grow as an automation tester and to share practical examples of using Cypress in real-world scenarios. I welcome feedback, suggestions, or collaboration from anyone interested in test automation.
 
-This project serves as a hands-on showcase of my Cypress testing skills. I hope it reflects the level of quality, attention to detail, and structure I strive to bring to every testing workflow. Whether you're a fellow tester, developer, or someone exploring automation tools — feel free to explore, fork, or reach out.
+Feel free to explore the project and adapt any part of it to your own testing workflow.
 
 ---
 
