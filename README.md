@@ -2,8 +2,6 @@
 
 This project is a personal initiative to demonstrate my proficiency in end-to-end test automation using [Cypress](https://www.cypress.io/). I chose to automate workflows on the [OrangeHRM Demo Application](https://opensource-demo.orangehrmlive.com/), a widely used open-source HR management system, as a practical way to showcase real-world testing scenarios.
 
-As a developer and software tester, I created this repository to reflect my understanding of Cypress, testing architecture, and automation best practices. It is intended as a portfolio project to present my capabilities to potential collaborators, employers, or the open-source community.
-
 ---
 
 ## 📌 Project Objectives
@@ -50,6 +48,7 @@ This project includes automated test coverage for:
 cypress.config.js         # Cypress configuration
 package.json              # Project metadata and dependencies
 README.md                 # Project documentation
+```
 ## 👨‍💻 Author
 
 **Abdulmajeed**  
