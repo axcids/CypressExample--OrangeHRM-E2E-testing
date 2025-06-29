@@ -19,10 +19,8 @@ The primary goals of this project are:
 This project includes automated test coverage for:
 
 - Login authentication flow
-- Dashboard access and validation
-- Admin module and user role management
-- Employee directory via the PIM (Personnel Information Management) module
-- User logout workflow
+- Admin Dashboard 
+- User management
 
 ---
 
