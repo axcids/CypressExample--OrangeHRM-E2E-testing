@@ -1,61 +1,27 @@
 # 🧪 OrangeHRM Cypress Automation
 
-This project is a personal initiative to demonstrate my proficiency in end-to-end test automation using [Cypress](https://www.cypress.io/). I chose to automate workflows on the [OrangeHRM Demo Application](https://opensource-demo.orangehrmlive.com/), a widely used open-source HR management system, as a practical way to showcase real-world testing scenarios.
+Cypress E2E test automation for the [OrangeHRM Demo Application](https://opensource-demo.orangehrmlive.com/), showcasing real-world testing scenarios.
 
----
+## ✅ Test Coverage
 
-## 📌 Project Objectives
+- Login authentication
+- Employee management
+- User administration
 
-The primary goals of this project are:
+## 🛠️ Tech Stack
 
-- To demonstrate hands-on experience with Cypress through meaningful test cases.
-- To model real-world testing strategies on a functional web application (OrangeHRM).
-- To present clean, maintainable, and scalable test code suitable for a modern QA workflow.
+- **Cypress.io** – E2E testing framework
+- **JavaScript** – Core language
 
----
+## 📁 Structure
 
-## ✅ Features Covered
-
-This project includes automated test coverage for:
-
-- Login authentication flow
-- Admin Dashboard 
-- User management
-
----
-
-## 🛠️ Technology Stack
-
-- **Cypress.io** – JavaScript end-to-end testing framework
-- **JavaScript (ES6+)** – Core scripting language
-- **Mocha & Chai** – Built-in testing and assertion libraries with Cypress
-
----
-
-## 📁 Project Structure
-
-```plaintext
-/cypress
-  /e2e
-    login.cy.js           # Tests for login functionality
-    dashboard.cy.js       # Tests for dashboard validation
-    pim.cy.js             # Tests for employee management
-  /support
-    commands.js           # Custom Cypress commands
-    e2e.js                # Test setup and global hooks
-cypress.config.js         # Cypress configuration
-package.json              # Project metadata and dependencies
-README.md                 # Project documentation
 ```
-## 👨‍💻 Final Note
+/cypress/e2e/          # Test files
+/cypress/support/      # Custom commands & setup
+cypress.config.js      # Configuration
+```
 
-This repository is part of my ongoing effort to grow as an automation tester and to share practical examples of using Cypress in real-world scenarios. I welcome feedback, suggestions, or collaboration from anyone interested in test automation.
+## � Note
 
-Feel free to explore the project and adapt any part of it to your own testing workflow.
-
----
-
-## 📃 Disclaimer
-
-This repository is created for educational and demonstration purposes only. The OrangeHRM application used is publicly available as a demo and is not affiliated with or maintained by this project.
+Educational project for demonstrating Cypress automation skills. The OrangeHRM demo site is publicly available for testing purposes.
 
